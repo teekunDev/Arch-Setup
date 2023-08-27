@@ -542,6 +542,6 @@ Now you are good to go
 
 ## Credits
 
-© _**Artist who make Wallpapers, graphics and more**_
+© _**Artist who made Wallpapers, graphics and more**_
 
 © _**[linuxmobile](https://github.com/linuxmobile/hyprland-dots) whose project this is based of**_
